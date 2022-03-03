@@ -1,4 +1,4 @@
-# My final project!
+# Independent Task 4
 
 I was inspired by Streamlit's Uber Demo to use a time slider to visualize bar graphs on a map. I looked at college enrollment at seven New Jersey Colleges( Rowan University, Rutgers- New Brunswick, -Camden, and -Newark, Montclair State, TCNJ, and Stockton University) and how it's grown from 1996 to 2019. Users can select what year they'd like to analyze. 
 
